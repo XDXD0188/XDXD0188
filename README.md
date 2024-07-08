@@ -1,6 +1,6 @@
 - 👋 Hi bro
 -  english or spanish?
-- 🌱 I’m currently learning >:(
+- 🌱 I’m currently learning UTF-8 ANSI C++
 - idk what to write here.................
 - BRUH
 - 😄 >:)
